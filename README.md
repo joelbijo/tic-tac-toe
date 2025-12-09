@@ -6,6 +6,7 @@ A simple, interactive Tic Tac Toe game built with Java Swing. This project featu
 
 - **Intuitive GUI:** Play using clickable buttons in a 3x3 grid.
 - **Two-player mode:** Alternate turns between Player 1 (X) and Player 2 (O).
+- **Play with Computer mode:** Alternate turns between Player 1 (X) and AI (O).
 - **Score tracking:** Keeps track of each player’s wins.
 - **Win highlighting:** Highlights the winning combination.
 - **Draw detection:** Detects and announces draws.
