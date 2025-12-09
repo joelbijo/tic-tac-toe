@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # macOS
 .DS_Store
 
@@ -10,3 +11,10 @@ target/
 bin/
 .vscode/
 .idea/
+=======
+# Ignore MacOS junk
+.DS_Store
+
+# Ignore compiled Java files
+*.class
+>>>>>>> d3ef86a (Clean repo and apply .gitignore)
